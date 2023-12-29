@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    background-image: url('./images/background-desktop.webp');
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
